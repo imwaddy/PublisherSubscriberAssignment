@@ -1,0 +1,4 @@
+{
+    "consumerURL": "amqp://guest:guest@localhost:5672/",
+    "DataSource": "test:test@tcp(localhost:3306)/ProducerConsumerDB?charset=utf8mb4&parseTime=True&loc=Local"
+}

@@ -1,0 +1,38 @@
+{"level":"info","msg":"[file]","time":"2020-11-28T18:38:47+05:30"}
+{"level":"info","msg":"[file]","time":"2020-11-28T18:38:56+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T10:19:12+05:30"}
+{"level":"info","msg":"[Received a message:  0xc000004200]","time":"2020-11-29T10:19:45+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T10:22:11+05:30"}
+{"level":"info","msg":"[Received a message:  0xc0000042a0]","time":"2020-11-29T10:22:30+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T10:35:44+05:30"}
+{"level":"info","msg":"[Received a message:  0xc000145800]","time":"2020-11-29T10:36:04+05:30"}
+{"level":"error","msg":"[Error while saving Room:  invalid field found for struct PublisherSubscriberAssignment/ConsumerModules/models.Room's field Capacity, need to define a foreign key for relations or it need to implement the Valuer/Scanner interface]","time":"2020-11-29T10:36:06+05:30"}
+{"level":"error","msg":"[Failed to save data]","time":"2020-11-29T10:36:06+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T10:39:43+05:30"}
+{"level":"info","msg":"[Received a message:  0xc000200300]","time":"2020-11-29T10:40:15+05:30"}
+{"level":"error","msg":"[Error while saving Room:  Error 1146: Table 'Test.rooms' doesn't exist]","time":"2020-11-29T10:40:17+05:30"}
+{"level":"error","msg":"[Failed to save data]","time":"2020-11-29T10:40:17+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T10:44:46+05:30"}
+{"level":"info","msg":"[Received a message:  0xc0002063c0]","time":"2020-11-29T10:45:02+05:30"}
+{"level":"error","msg":"[Error while saving Room:  Error 1146: Table 'Test.rooms' doesn't exist]","time":"2020-11-29T10:45:05+05:30"}
+{"level":"error","msg":"[Failed to save data]","time":"2020-11-29T10:45:05+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T10:48:42+05:30"}
+{"level":"info","msg":"[Received a message:  0xc0001975a0]","time":"2020-11-29T10:48:53+05:30"}
+{"level":"info","msg":"[Data Saved Successfully]","time":"2020-11-29T10:48:56+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T10:51:21+05:30"}
+{"level":"info","msg":"[Received a message:  0xc000204040]","time":"2020-11-29T10:51:46+05:30"}
+{"level":"info","msg":"[Data Saved Successfully]","time":"2020-11-29T10:51:49+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T11:08:53+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T11:22:33+05:30"}
+{"level":"info","msg":"[Received a message:  0xc000004120]","time":"2020-11-29T11:23:28+05:30"}
+{"level":"info","msg":"[Data Saved Successfully]","time":"2020-11-29T11:23:32+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T11:28:53+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T11:29:02+05:30"}
+{"level":"info","msg":"[Received a message:  0xc000204100]","time":"2020-11-29T11:29:23+05:30"}
+{"level":"info","msg":"[Data Saved Successfully]","time":"2020-11-29T11:29:26+05:30"}
+{"level":"info","msg":"[Received a message:  0xc000281140]","time":"2020-11-29T11:29:59+05:30"}
+{"level":"error","msg":"[Error while saving Hotel:  Error 1146: Table 'Test.hotels' doesn't exist]","time":"2020-11-29T11:30:00+05:30"}
+{"level":"error","msg":"[Failed to save data]","time":"2020-11-29T11:30:00+05:30"}
+{"level":"info","msg":"[ [*] Waiting for messages. To exit press CTRL+C]","time":"2020-11-29T11:30:26+05:30"}
+{"level":"info","msg":"[Received a message:  0xc000206320]","time":"2020-11-29T11:30:49+05:30"}
+{"level":"info","msg":"[Data Saved Successfully]","time":"2020-11-29T11:30:53+05:30"}
