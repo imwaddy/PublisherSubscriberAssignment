@@ -19,7 +19,7 @@ jobs:
         go-version: 1.16
 
     - name: Build
-      run: go build -v /home/runner/work/PublisherSubscriberAssignment/PublisherSubscriberAssignment/ConsumerModules/services
+      run: go build -v /home/runner/work/PublisherSubscriberAssignment/PublisherSubscriberAssignment/ConsumerModules/consumer.go
 
     - name: Test
-      run: go test -v /home/runner/work/PublisherSubscriberAssignment/PublisherSubscriberAssignment/ConsumerModules/consumer.go
+      run: go test -v /home/runner/work/PublisherSubscriberAssignment/PublisherSubscriberAssignment/ConsumerModules/services
